@@ -29,7 +29,11 @@ the data has been concatinated and wrangled using python [Jupyter Notebook](citi
 ## Tableau Workbook
 
 the final tableau workbook [.twbx](citibike_2019_project.twbx) which includes: 
+
   4-10 Total "Phenomenon" Visualizations
+  
   2 Dashboards
+  
   1 City Official Map
+  
   1 Story
