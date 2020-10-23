@@ -4,7 +4,7 @@
 ![alt text](Images/citi-bike-station-bikes.jpg)
 
 
-the Citi Bike Program has implemented a robust infrastructure for collecting data on the program's utilization. Through the team's efforts, each month bike data is collected, organized, and made public on the Citi Bike Data webpage.
+The Citi Bike Program has implemented a robust infrastructure for collecting data on the program's utilization. Through the team's efforts, each month bike data is collected, organized, and made public on the Citi Bike Data webpage.
 
 A analysis for the New York Citi Bike Program for the year 2019, in which will visualize 
 the data insights to the city officials with the goal of acheiving better decisions faster.
